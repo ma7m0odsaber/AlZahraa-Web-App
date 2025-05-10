@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Lama Sans';
+    src: local('Lama Sans Regular'), local('Lama-Sans-Regular'),
+        url('LamaSans-Regular.woff2') format('woff2'),
+        url('LamaSans-Regular.woff') format('woff'),
+        url('LamaSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
